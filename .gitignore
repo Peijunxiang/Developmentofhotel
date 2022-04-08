@@ -1,0 +1,7 @@
+.idea
+.idea/
+node_modules/
+.project
+dist
+dist/*
+/index.html
