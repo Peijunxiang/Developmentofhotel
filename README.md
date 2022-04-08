@@ -1,4 +1,4 @@
-# 基于Vue + ElementUI的后台管理
+# 基于Vue + Iver + webpack + node.js 的后台管理
 
 ## 环境安装
 1. 安装nodejs环境
